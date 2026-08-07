@@ -11,3 +11,6 @@
 <img width="942" height="727" alt="CompTIA Network+" src="https://github.com/user-attachments/assets/839f247c-e559-49d4-a8dc-a42da34962e3" />
 
 **Verification Link:** **http://verify.CompTIA.org**
+
+## Google IT Support Professional Certificate
+
