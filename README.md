@@ -14,3 +14,4 @@
 
 ## Google IT Support Professional Certificate
 
+<img width="947" height="731" alt="Google IT Support Professional Certificate" src="https://github.com/user-attachments/assets/b93bc848-247f-4ca4-974c-91b1a2b016f2" />
